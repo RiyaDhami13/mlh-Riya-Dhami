@@ -1,24 +1,23 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-%40Riya--Dhami-181717?logo=github&style=flat-square)](https://github.com/Riya-Dhami)
+[![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-4CAF50?style=flat-square)](https://github.com/Riya-Dhami)
+[![Hacker](https://img.shields.io/badge/Builds-Hackathon%20Projects-FF6B6B?style=flat-square)](https://github.com/Riya-Dhami)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hey there! I'm Riya Dhami, a student developer and hackathon enthusiast who enjoys building creative projects, learning new tools, and turning ideas into working prototypes. I’m especially interested in web development, software engineering, and problem-solving through code.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: TBD
+- 🎓 Education: Student / exploring software development
+- 📅 Hacking Since: 2024
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 Hackathon Builds — Creative prototypes and project experiments focused on solving real-world problems with code.
+- 🛠️ Web & App Experiments — Small applications and learning projects exploring frontend, backend, and product thinking.
+- 🤖 Learning Projects — Practice builds around APIs, automation, and developer workflows.
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: JavaScript, Python, HTML, CSS
+- 🔭 Focus: Web development, full-stack projects, hackathon building
+- ❤️ Interests: AI, product design, problem solving, community building
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
